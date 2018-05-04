@@ -1,0 +1,6 @@
+# Ignore data collected, and the text file containing api keys
+*.csv
+"API Keys.txt"
+.idea
+__pycache__
+venv

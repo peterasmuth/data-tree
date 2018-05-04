@@ -7,7 +7,7 @@ from datetime import datetime
 def get_weather():
 
     '''Pull the JSON file using the wundergound API'''
-    print("Requesting data...")
+    print("Requesting data..")
     weather_data = ""
     while True:
         try:
